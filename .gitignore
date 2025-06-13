@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+/.idea/
+
+# Compiled output
+/out/
+
+# Build folder for Gradle/Maven
+/build/
+/target/
